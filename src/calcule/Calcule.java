@@ -4,9 +4,9 @@ public class Calcule {
     float result;
 
     //method pentru adunare
-    public float adunare(float num1, float num2) {
-        result = num1 + num2;
-        return result;
+    public static float adunare(float num1, float num2) {
+        return  num1 + num2;
+        //return result;
     }
 
     //method pentru scadere
