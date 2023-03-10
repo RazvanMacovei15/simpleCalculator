@@ -31,5 +31,6 @@ public class Main {
         System.out.println("rezultatul impartirii este " + rezultatImpartire);
     }
 }
+//ok what now
 
 
